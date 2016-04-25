@@ -14,7 +14,13 @@ of this I decied to create my final year project on a 3D game which will allow u
 
 ### **_How to Runner this Program_**
 
+https://github.com/julienyaho/CarRace-4-Year-Final-Project/blob/master/Start%20up.PNG
 
+**_start up_**:- This give the user an option either to Play the game or Exit the game.
 
-start up:- This give the user an option either to Play the game or Exit if the user choice to Exit the the game it would ask the 
+https://github.com/julienyaho/CarRace-4-Year-Final-Project/blob/master/System%20Design.PNG
+
+**_Exit Option_**:- if the user choice to Exit the the game it would ask the 
 user if he/she is sure they want to Exit the game and they can pick yes or no.
+
+
