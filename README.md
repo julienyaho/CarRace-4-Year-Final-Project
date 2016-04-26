@@ -1,5 +1,5 @@
 #**_CarRacers-4-Year-Final-Project_**
-###**_Project Name_**: CarDodge
+###**_Project Name_**: _CarRacers
 ###**_College_**: GMIT
 ###**Student Name**: Julien Yaho
 ###**Student ID**: G00280658
@@ -37,6 +37,13 @@ https://github.com/julienyaho/CarRace-4-Year-Final-Project/blob/master/System%20
 
 **_Exit Option_**:- if the user choice to Exit the the game it would ask the 
 user if he/she is sure they want to Exit the game and they can pick yes or no.
+
+####**_Problems Face_**
+I face alot of problem when doing the project some of the problems are:-
+* couldn't not get a code to work on my project.
+* I run out of time.
+* I couldn't achieve my goal because i run out of time and i couldn't find the right code to suit my project.
+* hard problem with camera in unity3d.
 
 ####**_Conclusion_**
 What I have learn when doing project is that a successful project is when people come together and communicate often.
