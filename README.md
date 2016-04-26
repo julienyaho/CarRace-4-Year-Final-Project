@@ -1,4 +1,4 @@
-#**_CarDodge-4-Year-Final-Project_**
+#**_CarRacers-4-Year-Final-Project_**
 ###**_Project Name_**: CarDodge
 ###**_College_**: GMIT
 ###**Student Name**: Julien Yaho
@@ -11,7 +11,22 @@ challange myself. I choose this project because nowadays games have become parts
 both play games in their spart times. I believe that some people spent more time on there mobile phone playing games, because 
 of this I decied to create my final year project on a 3D game which will allow user to play my game.
 
+### **_Code_**
+This code allow the user to collect the coin and after it Destroy the coin.
+```python
+void OnTriggerEnter(Collider collider)
+	{
+		switch (collider.gameObject.name) 
+		{
 
+		case "Car":
+			CoinController.coinCount++;
+
+			Destroy (this.gameObject);
+			break;
+		}
+	}
+````
 ### **_How to Runner this Program_**
 
 https://github.com/julienyaho/CarRace-4-Year-Final-Project/blob/master/Start%20up.PNG
