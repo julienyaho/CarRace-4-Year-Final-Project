@@ -23,4 +23,11 @@ https://github.com/julienyaho/CarRace-4-Year-Final-Project/blob/master/System%20
 **_Exit Option_**:- if the user choice to Exit the the game it would ask the 
 user if he/she is sure they want to Exit the game and they can pick yes or no.
 
+####**_Conclusion_**
+What I have learn when doing project is that a successful project is when people come together and communicate often.
+I also when that when doing a project on you own make sure you do research early before you start to use the software 
+or start coding and make sure you get the equipment or check for codes that you think it would be good for your project.
+what I learn from this project is that never give up when things are not going to plan keep try still you get it working and 
+I notice that you will always run into Errors, to go about this you would have to research and keep try different code.
+
 
